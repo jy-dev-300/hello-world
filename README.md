@@ -1,3 +1,3 @@
 # hello-world
 
-Bezos Orb
+A practice in bootstrapping;
